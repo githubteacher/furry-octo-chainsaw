@@ -2,5 +2,5 @@
 
 int main()
 {
-  std::cout << "hello, world!\n";
+  std::cout << "Git 2.8 just got realeased! Check out github.com";
 }
