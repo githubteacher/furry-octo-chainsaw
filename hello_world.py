@@ -2,7 +2,8 @@ import sys
 
 
 def main():
-    print "Hello, world!"
+    sys.stdout.write("Hello, Git 2.8!\n")
+    sys.stdout.flush()
 
 
 if __name__ == "__main__":
